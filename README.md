@@ -1,2 +1,3 @@
 # sustainable-fashion-python-textanalysis
-This is my final project for my text analysis in python class
+
+This report investigates public sentiment and discourse on sustainable fashion through YouTube comments, revealing shifts in perception over time. Analysis of discussion trends shows a significant increase in positive sentiment in 2015 and a decrease in 2009, correlating with global events and consumer awareness. Topics range from clothing life cycles to economic impacts, reflecting the complexity of sustainable fashion issues. Sentiment analysis suggests optimal times for content creators and policymakers to influence public opinion. Linguistic trends highlight the role of environmental advocacy, economic conditions, and digital media in shaping discussions. Conclusively, the study emphasizes the value of digital platforms in gauging public sentiment and shaping sustainable practices in the fashion industry.
